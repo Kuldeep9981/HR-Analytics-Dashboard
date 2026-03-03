@@ -34,40 +34,42 @@ This ensured reliable analysis before dashboard development.
 
 <img src="HR-overview.png" width="900">
 
-### Key Workforce Metrics
+This page provides a high-level summary of workforce attrition across the organization.
 
+### 📌 Key Metrics
 - **Total Employees:** 1470  
-- **Total Employees Left:** 237  
-- **Overall Attrition Rate:** 16.12%  
-- **Employees Stayed:** 1233  
+- **Attrition Count:** 237  
+- **Attrition Rate:** 16.12%  
+- **Average Monthly Income:** 6.50K  
 
-This means approximately **1 in every 6 employees** left the organization.
+Approximately **1 in 6 employees** has left the company.
 
----
+### 📊 Key Insights
+- Sales and Research & Development show higher attrition volume.
+- Sales Executive and Laboratory Technician roles have notable turnover.
+- Employees working overtime show higher attrition.
+- Male attrition count is slightly higher than female.
+- Leadership roles show more stability compared to operational roles.
 
 ## 🔹 Page 2 – Deep Dive Analysis
 
 <img src="deep_dive.png" width="900">
 
 ### Major Analytical Findings
+This page analyzes the key factors influencing employee attrition.
 
-#### Department-Level Insights
-- Sales department shows the highest attrition volume.
-- Research & Development has moderate attrition.
-- Human Resources has the lowest attrition count.
+### 📊 Key Insights
 
-#### Job Role Analysis
-- Sales Executives show higher attrition.
-- Laboratory Technicians show noticeable turnover.
-- Managerial roles have significantly lower attrition.
+- **Salary Impact:** Employees who left earn significantly less (4.8K avg) compared to those who stayed (6.8K avg).
+- **Experience Impact:** Employees with lower tenure (~5.1 years) show higher attrition compared to long-tenured employees (~7.3 years).
+- **Age Group:** Most attrition occurs in the 21–40 age group.
+- **Job Satisfaction:** Lower satisfaction levels are associated with higher attrition.
+- **Education Field:** Life Sciences and Medical backgrounds form the largest employee groups.
+- **Marital Status:** Single employees show higher attrition compared to married employees.
 
-#### Salary Impact
-- Lower Monthly Income employees show higher attrition.
-- Employees who left earn less on average than those who stayed.
+This page answers the analytical question:
 
-#### Overtime Impact
-- Overtime employees have significantly higher attrition.
-- Overtime is one of the strongest turnover indicators.
+> “Why are employees leaving the organization?”
 
 ---
 
