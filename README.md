@@ -4,11 +4,12 @@
 
 This project analyzes employee attrition using the IBM HR Analytics dataset to uncover workforce turnover trends and provide data-driven HR recommendations.
 
-The project was completed in three major stages:
+The project was completed in four major stages:
 
 1. Data Cleaning & Exploratory Data Analysis (Python)
 2. Interactive Dashboard Development (Power BI)
-3. Business Insight Generation & Strategic Recommendations
+3. 25+ SQL Queries for Deep Analysis
+4. Business Insight Generation & Strategic Recommendations
 
 ---
 
